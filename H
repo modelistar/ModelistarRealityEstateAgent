@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Modelistar Realty | Professional Realtor in Nigeria</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; margin:0; padding:0; }
+    header { background: url('hero.jpg') center/cover no-repeat; height: 60vh; color: white; text-align:center; display:flex; align-items:center; justify-content:center; flex-direction:column;}
+    h1 { font-size:3rem; margin:0; }
+    .btn-contact { background:#007bff; color:white; padding:12px 20px; text-decoration:none; border-radius:5px; margin-top:15px;}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Find Your Dream Home with Modelistar Realty</h1>
+    <a href="contact.html" class="btn-contact">Contact an Agent</a>
+  </header>
+</body>
+</html>
